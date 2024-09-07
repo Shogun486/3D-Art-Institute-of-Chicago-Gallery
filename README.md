@@ -25,6 +25,7 @@ The Three.js library allows this website to function as a three-dimensional art 
 ## Using the website
 To use the website, all you need to do is:
   * Install [Node.js]
+  * Download all files in this repo
   * Run `npm install` on your terminal
   * Then run `npx vite`
   * Open the `localhost` link in your browser
