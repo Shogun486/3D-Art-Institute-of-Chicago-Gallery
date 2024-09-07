@@ -2,7 +2,7 @@
 ==============
 
 Ever wanted an "on-demand" art gallery experience? Well, you now can! This website allows
-you to search all artworks under the API of the _Art Institute of Chicago_'s (AIC). You can now
+you to search all artworks under the API of the _Art Institute of Chicago_ (AIC). You can now
 view any of these artworks on this website, displayed as a gallery for you to walk through.
 When you approach each artwork, a description box will pop up so you can learn more about the piece. 
 You'll feel like you're walking inside of the AIC itself!
