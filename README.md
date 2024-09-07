@@ -8,7 +8,7 @@ When you approach each artwork, a description box will pop up so you can learn m
 You'll feel like you're walking inside of the AIC itself!
 
 ## Demo
-To watch a quick demo, click here.
+To watch a quick demo, click [here].
 
 ## API Details
 The [AIC's REST API] holds the museum's public data. The image files you see are not from this API, but
@@ -29,6 +29,7 @@ To use the website, all you need to do is:
   * Then run `npx vite`
   * Open the `localhost` link in your browser
 
+[here]: https://drive.google.com/file/d/1pjongfAoSrFIB_XtTA_hxK6wNA9FfanO/view
 [Node.js]: https://nodejs.org
 [AIC's REST API]: https://api.artic.edu/docs/#introduction
 [IIIF Image API]: https://iiif.io/api/image/2.0/
