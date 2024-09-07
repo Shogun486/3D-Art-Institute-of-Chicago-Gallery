@@ -8,11 +8,11 @@ When you approach each artwork, a description box will pop up so you can learn m
 You'll feel like you're walking inside of the AIC itself!
 
 ## Demo
-To watch a quick demo, click [here].
+To watch a quick demo, click here.
 
 ## API Details
 The [AIC's REST API] holds the museum's public data. The image files you see are not from this API, but
-instead must be acquired through a different URL following [IIIF Image API] standards. Within [paintingData.js], 
+instead must be acquired through a different URL following [IIIF Image API] standards. Within paintingData.js, 
 you'll find that image requests are specifcially made with the URL suffix `/full/843,/0/default.jpg` (IIIF supports 
 multiple image display options). This particular display option is what's used by AIC's website, therefore 
 images will load much faster on your end if you stick with this option. You don't have to make any changes to any of the files
@@ -29,9 +29,8 @@ To use the website, all you need to do is:
   * Then run `npx vite`
   * Open the `localhost` link in your browser
 
-[here]:
 [Node.js]: https://nodejs.org
 [AIC's REST API]: https://api.artic.edu/docs/#introduction
 [IIIF Image API]: https://iiif.io/api/image/2.0/
-[paintingData.js]:
+
 
