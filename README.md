@@ -20,7 +20,7 @@ for this website to work. These details are simply informational.
 
 ## Tools
 This website is created using JavaScript, HTML, and CSS. 
-The Three.js library allows this website to function as a three-dimensional art gallery experience. 
+The Three.js library is what allows this website to function as a three-dimensional art gallery experience. 
 
 ## Using the website
 To use the website, all you need to do is:
